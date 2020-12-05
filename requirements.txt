@@ -1,0 +1,13 @@
+pandas
+numpy
+selenium
+pdfminer
+re
+xlrd
+openpyxl
+collections
+operator
+csv
+urllib
+nltk
+luigi
